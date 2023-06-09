@@ -1,42 +1,29 @@
-# Hey there, I'm Ticha Godwilll! 👋
-
-Welcome to my GitHub profile! I'm a passionate software developer. I specialize in the following technologies:
-
-1. React.js
-2. JavaScript
-3. Next.js
-4. HTML
-5. CSS
-6. Git & GitHub
-
-I'm currently learning Golang to expand my skill set even further. Let's connect and explore the world of coding together!
-
-## About Me
-
-- 💻 I have experience in building interactive web applications using React.js and Next.js.
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech industry.
-- 🔭 I've worked on various projects that have allowed me to sharpen my skills and gain valuable experience.
-<!-- - 🎓 I'm currently studying at Reboot01 and seek opportunities to collaborate and contribute to exciting projects. -->
-
-## Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/ticha-godwill-206563228/
-- Email: tichagodwill1@gmail.com
-
-I'm open to new opportunities, collaborations, and learning experiences. Feel free to reach out if you'd like to connect, discuss projects, or have any questions!
 
 
-<!--
-**tichagodwill/tichagodwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ticha Godwill</h1>
+<h3 align="center">A passionate software developer</h3>
+<img align="center" alt="coding" width="400"  src= "https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/tichagodwill" target="blank"><img src="https://img.shields.io/twitter/follow/tichagodwill?logo=twitter&style=for-the-badge" alt="tichagodwill" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **React, NextJS, Golang**
+
+- 📫 How to reach me **tichagodwill1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tichagodwill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tichagodwill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ticha godwill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ticha godwill" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tichagodwill&show_icons=true&locale=en&layout=compact" alt="tichagodwill" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tichagodwill&show_icons=true&locale=en" alt="tichagodwill" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tichagodwill&" alt="tichagodwill" /></p>
+
