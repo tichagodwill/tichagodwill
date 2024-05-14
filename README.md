@@ -1,5 +1,5 @@
 [![MasterHead](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)](https://your-own-link.com)
-<h1 align="center">Hi 👋, I'm Ticha Godwill</h1>
+<h1 align="center">Hi 👋, I'm Ticha Godwill Nji</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="coding" width="400"  src= "https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 
@@ -9,9 +9,11 @@
 
 - 🌱 I'm open to new opportunities, collaborations, and learning experiences. **Feel free to reach out if you'd like to connect, discuss projects, or have any questions!**
 
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech industry. **Currently learnin Golang**
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech industry. **Currently learning Golang**
 
-- 💬 Ask me about **React, NextJS, Golang**
+- 🔭 Student of 01Edu
+
+- 💬 Ask me about **Javascript, React, NodeJs, NextJS, Golang**
 
 - 📫 How to reach me **tichagodwill1@gmail.com**
 
