@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **Javascript, React, NodeJs, NextJS, Golang**
 
-- 📫 How to reach me **tichagodwill1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
