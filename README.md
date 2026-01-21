@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="coding" width="400"  src= "https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 
-<p align="left"> <a href="https://twitter.com/tichagodwill" target="blank"><img src="https://img.shields.io/twitter/follow/tichagodwill?logo=twitter&style=for-the-badge" alt="tichagodwill" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/tichagodwill" target="blank"><img src="https://img.shields.io/twitter/follow/tichagodwill?logo=twitter&style=for-the-badge" alt="tichagodwill" /></a> </p> -->
 
 - 🔭 I've worked on various projects that have allowed me to sharpen my skills and gain valuable experience. **Expense calculator**
 
